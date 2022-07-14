@@ -1,2 +1,6 @@
-# notortalamalar-java
-Proje1
+# NOT ORTALAMA HESAPLAMA
+
+## Java ile not ortalamasını hesaplayan uygulama.
+
+
+## [www.patika.dev](https://www.patika.dev)
