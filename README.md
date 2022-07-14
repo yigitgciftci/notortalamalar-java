@@ -1,0 +1,2 @@
+# notortalamalar-java
+Proje1
